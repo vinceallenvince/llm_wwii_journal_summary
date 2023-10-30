@@ -26,4 +26,6 @@ While I generated the initial summary using GPTIndex and OpenAI's `text-davinci-
 
 Below is the original summary using GPT3 which produced an accurate summary over thousands of words. Check out [the notebook](https://github.com/vinceallenvince/ai_wwii_journal/blob/main/summary.py.ipynb) for the GPT-4 examples.
 
+### The Conclusion ###
+
 *The 48th Tank Battalion was later attached to the 42nd Infantry Division, departed Lupstein and traveled 110 miles north and east across the Rhine River at Worms, Germany. Along the way, they encountered enemy planes, destroyed buildings, released Allied prisoners of war, and encountered resistance from the German Army. After reaching Neustadt, they moved south and joined forces with the Third Army and Seventh Army, driving towards Munich. They then moved to Bad Staffelstein, where they encountered more resistance and released more Allied prisoners of war. They then assisted the Third and 45th Infantry Divisions in seizing the city of Nuremberg and then cut the Autobahn south of the city in the vicinity of Neumarkt in der Oberpfalz. After contending with blown bridges, roadblocks, enemy artillery, mortar fire, anti-tank and small arms fire, they reached the town of Wildflecken. They then moved to Neustadt, where they consolidated their gains and posted, leading up to the announcement of VE Day, on May 8th.*
